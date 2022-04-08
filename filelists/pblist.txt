@@ -1,0 +1,253 @@
+wavs/pb01.wav|Buenas  noches, Ecuador.
+wavs/pb02.wav|Vengan temprano la proxima semana siete de la mañana, los esperamos a la grabacion.
+wavs/pb03.wav|Es el especial, del dia de las madres.
+wavs/pb04.wav|Programa.
+wavs/pb05.wav|La parte de las abuelitas.
+wavs/pb06.wav|Pobres de la ciudad.
+wavs/pb07.wav|Rogamos a las abuelitas no venir aca por favor.
+wavs/pb08.wav|Quienes quieran compartir.
+wavs/pb09.wav|Que normalmente nos acompania, los esperamos, siete de la maniana.
+wavs/pb10.wav|Proximo lunes.
+wavs/pb11.wav|Ahora si.
+wavs/pb12.wav|Antes de continuar.
+wavs/pb13.wav|Primero llamemos.
+wavs/pb14.wav|Hoy tenemos, un par de chocolates.
+wavs/pb15.wav|Un par de bombones.
+wavs/pb16.wav|Un par de companieras.
+wavs/pb17.wav|Una ya la conocen, la semana anterior.
+wavs/pb18.wav|El aplauso para.
+wavs/pb19.wav|Si claro que si.
+wavs/pb20.wav|Buen augurio.
+wavs/pb21.wav|Estar, en los veintiun anios.
+wavs/pb22.wav|Con rostros nuevos, en este programa.
+wavs/pb23.wav|Usted debuto en television, aqui verdad.
+wavs/pb24.wav|Yoana bien venida, y espero que disfrute del programa.
+wavs/pb25.wav|Ahora damas y caballeros un rostro tal vez familiar para ustedes pero con un luk,totalmente diferente.
+wavs/pb26.wav|Ella, tiene su nombre propio.
+wavs/pb27.wav|Carolina.
+wavs/pb28.wav|Socrates.
+wavs/pb29.wav|Pasaje muy rapido.
+wavs/pb30.wav|Se me viene a la mente, personas que quiero.
+wavs/pb31.wav|Que respeto.
+wavs/pb32.wav|Ya no estan.
+wavs/pb33.wav|Del grupo que nacio.
+wavs/pb34.wav|Dos personalidades panamericana television  que, vinieron a este pais, en mil novecientos setentayseis.
+wavs/pb35.wav|Por el mes de febrero.
+wavs/pb36.wav|Tremendas madrugadas para hacer una serie, de grabaciones en aquel entonces.
+wavs/pb37.wav|Habia que esperar que se apaque el canal para poder grabar.
+wavs/pb38.wav|Promociones.
+wavs/pb39.wav|Ciertos segmentos no precisamente de haga negocio.
+wavs/pb40.wav|Solamente este permanece.
+wavs/pb41.wav|A dios gracias.
+wavs/pb42.wav|Estos dos caballeros junto a hugo fernandez duran que si vive.
+wavs/pb43.wav|Vive en el vecino pais del peru.
+wavs/pb44.wav|Y quien encabezaba,  este grupo que era jorge perez pesantes.
+wavs/pb45.wav|Y quien fuera gerente general tambien de, anios posteriores de aqui del canal.
+wavs/pb46.wav|A ellos.
+wavs/pb47.wav|Otros que se han ido.
+wavs/pb48.wav|El proceso, si lo podemos llamar asi de haga negocio conmigo.
+wavs/pb49.wav|Lo que tal vez ha ayudado.
+wavs/pb50.wav|A que esto se mantenga.
+wavs/pb51.wav|El hablar el idioma nuestro.
+wavs/pb52.wav|Nuestras vivencias.
+wavs/pb53.wav|Mucho mas alla de lo que, muchas ocasiones nos han hecho criticas.
+wavs/pb54.wav|Las hicieron nunca les conteste, las acepte.
+wavs/pb55.wav|Y si no las aceptaba igual les respetaba.
+ wavs/pb56.wav|Un equipo humano.
+wavs/pb57.wav|Gente que estuvo, gente que esta.
+wavs/pb58.wav|Companieros que tienen tantos anios.
+wavs/pb59.wav|Musicos, entraniables.
+wavs/pb60.wav|Bajo la batuta del maestro socrates.
+wavs/pb61.wav|Modelos.
+wavs/pb62.wav|Hay un proceso de tantas personas, para que ustedes vean un producto final.
+wavs/pb63.wav|Hasta que el producto terminado sale.
+wavs/pb64.wav|Limitado tal vez, pero hablando nuestro propio idioma.
+wavs/pb65.wav|Nuestra identidad por este manifiesto.
+wavs/pb66.wav|Siempre con ganas siempre con mucha fe con mucho obtimismo.
+wavs/pb67.wav|Y aveces con altas discrepancias  internamente aun dentro del proceso de una grabacion.
+wavs/pb68.wav|Ahi estamos.
+wavs/pb69.wav|Creo que mas alla de todo lo que uno puede hacer.
+wavs/pb70.wav|Es el producto de un gran equipo humano.
+wavs/pb71.wav|Que son, creanlo.
+wavs/pb72.wav|Maravillosas personas.
+wavs/pb73.wav|Y los criticos mas terminantes.
+wavs/pb74.wav|Que puedan existir.
+wavs/pb75.wav|Los que mas estan empapados de todo lo que es.
+wavs/pb76.wav|Creo que es a ellos a quien hay que darle.
+wavs/pb77.wav|Yo doy la cara, yo hago una propuesta.
+wavs/pb78.wav|Pero ellos, si no me respaldan esa propuesta no vale.
+wavs/pb80.wav|Estas dos, nuevas companieras.
+wavs/pb81.wav|Nisiquiera habian nacido cuando, ya existia el programa.
+wavs/pb82.wav|Asi es la vida.
+wavs/pb83.wav|El abuelo.
+wavs/pb84.wav|Bueno no soy tan viejo pero,  pero vamos a decirlo asi el abuelo.
+wavs/pb85.wav|Eso es bueno porque, las nuevas generaciones.
+wavs/pb86.wav|Tambien a uno lo inyectan, y lo obligan a tratar de, sobreponerse a muchos acapites de la vida.
+wavs/pb87.wav|Eso es saludable, gente nueva, sangre nueva.
+wavs/pb88.wav|que hay en este programa que hay en esta empresa llamada, te se television o como yo la conoci cadena ecuatoriana de television canal diez a la que queremos.
+wavs/pb89.wav|A ustedes bien venidas sangre nueva, a los companieros.
+wavs/pb90.wav|Yo soy bastante dificil, para quienes no lo sepan.
+wavs/pb91.wav|Bastante dificil pero,  no mal intencionado.
+wavs/pb92.wav|Los quiero.
+wavs/pb93.wav|Dios les pague.
+wavs/pb94.wav|Creo que vamos a tener que oxigenarnos.
+wavs/pb95.wav|Hablaremos algo mas adelante.
+wavs/pb96.wav|Que quiere.
+wavs/pb97.wav|Ya mismo ya mismo.
+wavs/pb98.wav|Por favor.
+wavs/pb99.wav|Ahora si.
+wavs/pb100.wav|Maestro hay que respirar profundo.
+wavs/pb101.wav|Chicas que me escuchai.
+wavs/pb102.wav|Que quisiera ser musica, musico ella dice para tocarme lo que yo quiera que propuestas tienes tu, que me puede tocar ella.
+wavs/pb103.wav|Voy a tener que comprar un organo no tengo.
+wavs/pb104.wav|Tengo uno que no es ni mio, pero que esta daniao.
+wavs/pb105.wav|Tiene nombre alguna pieza, particularmente suya.
+wavs/pb106.wav|Si me estan lanzando los perros ami.
+wavs/pb107.wav|Le gusto eso.
+wavs/pb108.wav|Por que le gusto.
+wavs/pb109.wav|Mucho gusto.
+wavs/pb110.wav|Conciencia de una de las dos.
+wavs/pb111.wav|O capaz de las dos.
+wavs/pb112.wav|Porque hermano de anemico no tienes nada.
+wavs/pb113.wav|Y el otro.
+wavs/pb114.wav|Aca al otro chocolatin.
+wavs/pb115.wav|Tiene los pelos de punta.
+wavs/pb116.wav|Increible ropa el verano noventaisiete tiene un nombre.
+wavs/pb117.wav|En el unicentro segundo piso, local doscientos doce.
+wavs/pb118.wav|La moda al dia, con los precios del ayer.
+wavs/pb119.wav|Ahora si.
+wavs/pb120.wav|Quienes quieren cortarse el pelo.
+wavs/pb121.wav|Chocolatin.
+wavs/pb122.wav|Ha venido con el negro encima.
+wavs/pb123.wav|Que tiene el negro.
+wavs/pb124.wav|Esta bien.
+wavs/pb125.wav|Que le pasa lo veo todo.
+wavs/pb126.wav|Como rechupado.
+wavs/pb127.wav|Patricio no tienes mas nombres  apellidos.
+wavs/pb128.wav|El juega futbol y tu macateta hermano.
+wavs/pb129.wav|Ese man es  avispado.
+wavs/pb130.wav|Tu andas pero lento viejo.
+wavs/pb131.wav|Soltero casao.
+wavs/pb132.wav|Enamoradas.
+wavs/pb133.wav|Que pasa con la morenita.
+wavs/pb134.wav|Como es ella,  a ver cuentame.
+wavs/pb135.wav|Las medidas.
+wavs/pb136.wav| o sea pero es cuerpo de guitarra, asi.
+wavs/pb137.wav|No va a tener un trauma psicologico marilin.
+wavs/pb138.wav|No le gusta mocho.
+wavs/pb139.wav|Viendo alla no.
+wavs/pb140.wav|Dile a marilin.
+wavs/pb141.wav|Que lo vas a llevar chiquito extremadamente corto,  mocho, mochisimo.
+wavs/pb142.wav|Mantenuto.
+wavs/pb143.wav|Explotandola sera.
+wavs/pb144.wav|Vamos directamente musica maestro.
+wavs/pb145.wav|La verdad que mientras te cortaba el pelo hermano me acordaba de la fritada el cuerito reventado el chicharron.
+wavs/pb146.wav|Que tiempo demora en hacer cada trencita.
+wavs/pb147.wav|Cada trenza.
+wavs/pb148.wav|Por todo el pelo.
+wavs/pb149.wav|Bueno vamos a ver viendo aca.
+wavs/pb150.wav|Sonrie hermano sonrie eso el antes de, y.
+wavs/pb151.wav|Eres la sensacion,  lo real y cierto es que le hemos hecho un corte para que mas o menos trate de verse como se lo vera en un futuro.
+wavs/pb152.wav|Claro.
+wavs/pb153.wav|Asi como el caballero que esta alla arriba.
+wavs/pb154.wav|Mas o menos asi.
+wavs/pb155.wav|Que va a hacer con esta plata le va a dar algo a la pelada o que.
+wavs/pb156.wav|Que tal es para el canto.
+wavs/pb157.wav|Ojala cante bien estamos desesperados, para que ustedes se lleven.
+wavs/pb158.wav|Esta lista.
+wavs/pb159.wav|Cante duro.
+wavs/pb160.wav|Total silencio del publico.
+wavs/pb161.wav|Este es el tema musical interpretado por.
+wavs/pb162.wav|Luis miguel.
+wavs/pb163.wav|Esta lista.
+wavs/pb164.wav|Total silencio del publico caso contrario la descalifican lunes siete de la maniana la grabacion a la una a las dos, rueda teip.
+wavs/pb165.wav|Querida amiga.
+wavs/pb166.wav|Tengo que decirle que.
+wavs/pb167.wav|Bueno.
+wavs/pb168.wav|Que es simplemente la matricula.
+wavs/pb169.wav|Sobre ese lado.
+wavs/pb170.wav|Y mientras tanto.
+wavs/pb171.wav|Se llama.
+wavs/pb172.wav|Sabe o no sabe cantar usted.
+wavs/pb173.wav|Cual es su pieza favorita.
+wavs/pb174.wav|La pieza.
+wavs/pb175.wav|De que barrio viene usted.
+wavs/pb176.wav|Viendo al frente repita su nombre.
+wavs/pb177.wav|El amigo.
+wavs/pb178.wav|Dice que no tiene pieza.
+wavs/pb179.wav|Ahora si, sobre que va a escoger.
+wavs/pb180.wav|Vaya usted.
+wavs/pb181.wav|Verdad.
+wavs/pb182.wav|Y a lavar la ropa con.
+wavs/pb183.wav|Que tal es para cantar.
+wavs/pb184.wav|Su pieza favorita.
+wavs/pb185.wav|Ese es el ritmo.
+wavs/pb186.wav|La ninia.
+wavs/pb187.wav|La seniora, la seniora, seniora dice que es verdad.
+wavs/pb188.wav|Sobre que va a aescoger.
+wavs/pb189.wav|Si no la descalifican lunes siete de la maniana la grabacion a la una a las dos, rueda teip.
+wavs/pb190.wav|Bueno,  felicitaciones a la amiga ester se llevo dos millones.
+wavs/pb191.wav|Un dos.
+wavs/pb192.wav|Esto es muy motivante.
+wavs/pb193.wav|El trauma psicologico que siempre me pone cincuenta a mi.
+wavs/pb194.wav|Estoy tratando de no llorar.
+wavs/pb195.wav|Ya lo dije al comienzo,  creo que tengo todas las ganas que deseo.
+wavs/pb196.wav|Es un dia especial, tal vez un dia controvertido internamente para mi.
+wavs/pb197.wav|Me siento muy nutrido a travez de los companieros.
+wavs/pb198.wav|Al inicio del programa hable de nuevas generaciones.
+wavs/pb199.wav|Una cantidad de nueva generacion.
+wavs/pb200.wav|Siempre renovandose.
+wavs/pb201.wav|Pero manteniendo tambien a quienes, tal vez seamos ya viejos aca.
+wavs/pb202.wav|Otros que, estuvieron de companieros, y regresaron.
+wavs/pb203.wav|En aquella epoca caso de marco vinicio.
+wavs/pb204.wav|Bebeto deberia estar por aca tambien.
+wavs/pb205.wav|Ahora.
+wavs/pb207.wav|Errores y aciertos, tratando de hacer las cosas, lo mejor posible.
+wavs/pb208.wav|Con el equipo humano, de te se television maravilloso.
+wavs/pb209.wav|Y tal vez el mas exigente casa adentro.
+wavs/pb211.wav|A los musicos locutores.
+wavs/pb212.wav|Disculpen, se me va a pasar muchisima gente.
+wavs/pb213.wav|A quienes me abrieron la ventana la puerta, eso si lo dije al comienzo y lo vuelvo a recalcar.
+wavs/pb214.wav|Caso de dos que ya fallecieron.
+wavs/pb215.wav|Ex panamericana de television.
+wavs/pb216.wav|Otro.
+wavs/pb217.wav|Nuestro ex gerente Jorge Perez Pesantes.
+wavs/pb218.wav|Comenzamos los pininos de haga negocio conmigo.
+wavs/pb219.wav|Gerente hasta  quien recibe en la puerta.
+wavs/pb220.wav|Gracias por el apoyo.
+wavs/pb221.wav|Por aguantarme porque no es nada facil trabajar conmigo, soy muy temperamental.
+wavs/pb222.wav|Tratando de hacer bien las cosas.
+wavs/pb223.wav|Mas alla, de mis, errores mas que todo.
+wavs/pb224.wav|A un companiero.
+wavs/pb225.wav|Menos palabras.
+wavs/pb226.wav|Los tiempos.
+wavs/pb227.wav|Pero por lo menos.
+wavs/pb228.wav|Esperamos haber dejado alguna huella.
+wavs/pb229.wav|No estoy diciendo que me voy, no.
+wavs/pb230.wav|Esta es mi casa.
+wavs/pb231.wav|Pero si en algun momento ya me toca no estar.
+wavs/pb232.wav|Buenos amigos buenos companieros.
+wavs/pb233.wav|La gente que mas necesita.
+wavs/pb234.wav|A ellos, mi abrazo fraternal.
+wavs/pb235.wav|Son quienes merecen el reconocimiento.
+wavs/pb236.wav|De haber soportado y aguantado, veintiun anios, que eso no se da todos los dias.
+wavs/pb237.wav|Solamente, agradecerles una vez mas, a todos ustedes.
+wavs/pb238.wav|No soy facil.
+wavs/pb239.wav|No soy facil en el sentido.
+wavs/pb240.wav|De expresar lo que yo siento.
+wavs/pb241.wav|Lo estoy logrando lo estoy logrando.
+wavs/pb242.wav|Quisiera que entiendan que la realizacion.
+wavs/pb243.wav|Particularmente no lo tomen en sentido morvo, ojala nadie lo tomeen ese, sentido de lo que voy a decir.
+wavs/pb244.wav|Para mi, un orgasmo espiritual.
+wavs/pb245.wav|De este servidor.
+wavs/pb246.wav|Que mas alla de animador como animador.
+wavs/pb247.wav|Bueno para unos, malo para otros, mediocre para otros.
+wavs/pb248.wav|Pero en fin, vamos cavalgando, y cavalgando con carinio con  respeto.
+wavs/pb249.wav|Con polemica.
+wavs/pb250.wav|Siempre se queda muy lejos.
+wavs/pb251.wav|llamamos a la primera participante.
+wavs/pb252.wav|Al frente, su nombre.
+wavs/pb253.wav|Se llama.
+wavs/pb254.wav|Se llama.
+wavs/pb225.wav|Atencion.
+wavs/pb256.wav|Y nosotros maestro.
